@@ -9,3 +9,4 @@ The game is very sparse in features:
 
 trouble shooting: 
 you'll probably have to download and run vc_redist.x64.exe first(you only have to do this once), after that the game should launch properly
+vc_redsit.x64.exe is a lie, it doesn't do what it's supposed to, the DLLs will still be missing. (for now download visual studio, and add Desktop development with c++, that way the DLLs will be installed)
